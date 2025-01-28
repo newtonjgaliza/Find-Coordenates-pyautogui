@@ -1,0 +1,1 @@
+# Find-Coordenates-pyautogui
